@@ -1,6 +1,6 @@
 # Exploring CO2 Emissions, Greenhouse Gas Emissions, Fossil Fuel Energy Consumption, and Oil-based Electricity Production: Statistical Analysis & Correlations
 
-![Project Banner](project_banner.png) <!-- Replace with your project banner image URL -->
+![Project Banner]([project_banner.png](https://github.com/eishaahmed50/Environmental-Indicators-Analysis/blob/main/Screenshot%20(339).png)) <!-- Replace with your project banner image URL -->
 
 This repository contains the code and analysis for exploring the relationships between various environmental indicators, including CO2 emissions, greenhouse gas emissions, fossil fuel energy consumption, and electricity production from oil sources. The objective of this project is to gain insights into the correlations and trends among these key environmental factors and provide visualizations to better understand their interconnections.
 
